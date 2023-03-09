@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SwapnikaSuite">
+  <test thread-count="5" name="SwapnikaTestNGresults">
+    <classes>
+      <class name="testng.NewTest1"/>
+      <class name="testng.Alerthandle_testNG"/>
+      <class name="testng.Collegeliveweek_testNG"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

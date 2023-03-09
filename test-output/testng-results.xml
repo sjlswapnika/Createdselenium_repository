@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T19:16:18 EST" name="SwapnikaSuite" finished-at="2023-03-08T19:17:09 EST" duration-ms="50438">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T19:16:18 EST" name="SwapnikaTestNGresults" finished-at="2023-03-08T19:17:09 EST" duration-ms="50438">
+      <class name="testng.NewTest1">
+        <test-method signature="addNum()[pri:0, instance:testng.NewTest1@6d763516]" started-at="2023-03-08T19:16:18 EST" name="addNum" finished-at="2023-03-08T19:16:18 EST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNum -->
+        <test-method signature="findLargeNumber()[pri:0, instance:testng.NewTest1@6d763516]" started-at="2023-03-08T19:16:18 EST" name="findLargeNumber" finished-at="2023-03-08T19:16:18 EST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findLargeNumber -->
+        <test-method signature="mulNum()[pri:0, instance:testng.NewTest1@6d763516]" started-at="2023-03-08T19:16:18 EST" name="mulNum" finished-at="2023-03-08T19:16:18 EST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mulNum -->
+        <test-method signature="subNum()[pri:0, instance:testng.NewTest1@6d763516]" started-at="2023-03-08T19:16:18 EST" name="subNum" finished-at="2023-03-08T19:16:18 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subNum -->
+      </class> <!-- testng.NewTest1 -->
+      <class name="testng.Collegeliveweek_testNG">
+        <test-method signature="f()[pri:0, instance:testng.Collegeliveweek_testNG@595b007d]" started-at="2023-03-08T19:16:34 EST" name="f" finished-at="2023-03-08T19:17:09 EST" duration-ms="34990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testng.Collegeliveweek_testNG -->
+      <class name="testng.Alerthandle_testNG">
+        <test-method signature="f()[pri:0, instance:testng.Alerthandle_testNG@5158b42f]" started-at="2023-03-08T19:16:18 EST" name="f" finished-at="2023-03-08T19:16:34 EST" duration-ms="15341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testng.Alerthandle_testNG -->
+    </test> <!-- SwapnikaTestNGresults -->
+  </suite> <!-- SwapnikaSuite -->
+</testng-results>
